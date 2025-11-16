@@ -17,7 +17,7 @@
 
     &--2 {
         @include tablet {
-            --gridColumns 1:
+            --gridColumns: 1;
         }
     }
 }
